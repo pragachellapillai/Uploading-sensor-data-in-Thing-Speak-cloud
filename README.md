@@ -116,15 +116,9 @@ delay(100);
 }
 ```
 # CIRCUIT DIAGRAM:
-
-
 ![Screenshot 2024-11-22 122150](https://github.com/user-attachments/assets/6014ad53-ada4-473e-8e69-39dacd67a468)
-
-
 # OUTPUT:
-
 ![Screenshot 2024-11-22 122348](https://github.com/user-attachments/assets/dad74c95-920a-4fdb-b15a-a4cc621b6257)
-
 # RESULT:
 
 Thus the temperature sensor values are updated in the Thing speak using ESP32 controller.
